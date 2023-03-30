@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @2Mushroo2
+- 👋 Hi, I’m Rv95
 - 👀 I’m interested in introduce me to the trading world. I'm studying electronic and automatic engineering
-- 🌱 I’m currently learning trading with cryptos
+- 🌱 I’m currently learning deep learning, programming and automatic process.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
